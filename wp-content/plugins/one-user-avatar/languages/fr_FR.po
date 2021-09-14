@@ -1,0 +1,485 @@
+# Translation of Plugins - WP User Avatar | User Profile Picture - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP User Avatar | User Profile Picture - Stable (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - WP User Avatar | User Profile Picture - Stable "
+"(latest release)\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/one-user-avatar\n"
+"POT-Creation-Date: 2021-06-01T19:12:54+00:00\n"
+"PO-Revision-Date: 2021-06-01 20:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#. Plugin Name of the plugin
+#: includes/class-wp-user-avatar-admin.php:227
+#: includes/class-wp-user-avatar-admin.php:426
+#: includes/class-wp-user-avatar-widget.php:32
+#: includes/wpua-options-page.php:55 includes/wpua-tinymce-window.php:31
+msgid "One User Avatar"
+msgstr "One User Avatar"
+
+#. Plugin URI of the plugin
+msgid "https://onedesigns.com/plugins/one-user-avatar/"
+msgstr "https://onedesigns.com/plugins/one-user-avatar/"
+
+#. Description of the plugin
+msgid ""
+"Use any image from your WordPress Media Library as a custom user avatar. Add "
+"your own Default Avatar. Fork of WP User Avatar v2.2.16."
+msgstr ""
+"Utiliser n'importe quelle image dans votre Bibliothèque de médias de "
+"WordPress comme un avatar personnalisé. Ajouter votre propre avatar par "
+"défaut. Basé sur WP User Avatar v2.2.16."
+
+#. Author of the plugin
+msgid "One Designs"
+msgstr "One Designs"
+
+#. Author URI of the plugin
+msgid "https://onedesigns.com/"
+msgstr "https://onedesigns.com/"
+
+#: includes/class-wp-user-avatar-admin.php:170
+msgid "You are not allowed to delete this post."
+msgstr "Vous n'êtes pas autorisé à supprimer cet article."
+
+#: includes/class-wp-user-avatar-admin.php:174
+msgid "Error in deleting."
+msgstr "Error lors de la suppression."
+
+#: includes/class-wp-user-avatar-admin.php:228
+#: includes/class-wp-user-avatar-admin.php:286 includes/wpua-media-page.php:59
+msgid "Avatars"
+msgstr "Avatars"
+
+#: includes/class-wp-user-avatar-admin.php:237
+#: includes/class-wp-user-avatar-admin.php:238
+#: includes/class-wp-user-avatar-admin.php:462
+#: includes/wpua-options-page.php:93
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/class-wp-user-avatar-admin.php:246
+#: includes/class-wp-user-avatar-admin.php:247
+msgid "Library"
+msgstr "Librairie"
+
+#: includes/class-wp-user-avatar-admin.php:372
+msgid "Mystery Man"
+msgstr "Homme mystère"
+
+#: includes/class-wp-user-avatar-admin.php:373
+msgid "Blank"
+msgstr "Vide"
+
+#: includes/class-wp-user-avatar-admin.php:374
+msgid "Gravatar Logo"
+msgstr "Logo Gravatar"
+
+#: includes/class-wp-user-avatar-admin.php:375
+msgid "Identicon (Generated)"
+msgstr "Identicon (généré)"
+
+#: includes/class-wp-user-avatar-admin.php:376
+msgid "Wavatar (Generated)"
+msgstr "Wavatar (généré)"
+
+#: includes/class-wp-user-avatar-admin.php:377
+msgid "MonsterID (Generated)"
+msgstr "MonsterID (généré)"
+
+#: includes/class-wp-user-avatar-admin.php:378
+msgid "Retro (Generated)"
+msgstr "Retro (généré)"
+
+#: includes/class-wp-user-avatar-admin.php:427
+#: includes/class-wp-user-avatar.php:231
+msgid "Choose Image"
+msgstr "Choisir une image"
+
+#: includes/class-wp-user-avatar-admin.php:428
+msgid "Remove"
+msgstr "Retirer"
+
+#: includes/class-wp-user-avatar-admin.php:428
+#: includes/class-wp-user-avatar.php:292
+msgid "Undo"
+msgstr "Annuler"
+
+#: includes/class-wp-user-avatar-admin.php:480
+msgid "https://onedesigns.com/support/forum/plugins/one-user-avatar/"
+msgstr "https://onedesigns.com/support/forum/plugins/one-user-avatar/"
+
+#: includes/class-wp-user-avatar-admin.php:481
+msgid "Support Forums"
+msgstr "Forums de support"
+
+#: includes/class-wp-user-avatar-admin.php:495
+#: includes/class-wp-user-avatar-admin.php:556 includes/wpua-functions.php:93
+#: includes/wpua-functions.php:106 includes/wpua-functions.php:114
+#: includes/wpua-functions.php:186 includes/wpua-tinymce-window.php:94
+msgid "Profile Picture"
+msgstr "Image de profil"
+
+#: includes/class-wp-user-avatar-admin.php:560
+#: includes/wpua-options-page.php:300 includes/wpua-options-page.php:306
+msgid "Default Avatar"
+msgstr "Avatar par défaut"
+
+#: includes/class-wp-user-avatar-functions.php:515
+#: includes/class-wp-user-avatar-functions.php:716
+msgid "Avatar"
+msgstr "Avatar"
+
+#. translators: uploaded files
+#: includes/class-wp-user-avatar-list-table.php:176
+msgctxt "uploaded files"
+msgid "All %s"
+msgstr "Tous %s"
+
+#: includes/class-wp-user-avatar-list-table.php:192
+#: includes/class-wp-user-avatar-list-table.php:549
+msgid "Delete Permanently"
+msgstr "Supprimer Définitivement"
+
+#: includes/class-wp-user-avatar-list-table.php:222
+msgid "No media attachments found."
+msgstr "Pas de fichier média attaché."
+
+#: includes/class-wp-user-avatar-list-table.php:235
+msgctxt "column name"
+msgid "File"
+msgstr "Fichier"
+
+#: includes/class-wp-user-avatar-list-table.php:236
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/class-wp-user-avatar-list-table.php:237
+msgctxt "column name"
+msgid "Uploaded to"
+msgstr "Téléversé sur"
+
+#: includes/class-wp-user-avatar-list-table.php:238
+msgctxt "column name"
+msgid "Date"
+msgstr "Date"
+
+#. translators: post title
+#: includes/class-wp-user-avatar-list-table.php:323
+msgid "Select %s"
+msgstr "Sélectionner %s"
+
+#: includes/class-wp-user-avatar-list-table.php:414
+msgid "Unpublished"
+msgstr "Non publié"
+
+#. translators: time from now
+#: includes/class-wp-user-avatar-list-table.php:422
+msgctxt "time from now"
+msgid "%s from now"
+msgstr "%s à partir de maintenant"
+
+#. translators: time ago
+#: includes/class-wp-user-avatar-list-table.php:428
+msgctxt "time ago"
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: includes/class-wp-user-avatar-list-table.php:433
+msgid "Y/m/d"
+msgstr "d/m/Y"
+
+#: includes/class-wp-user-avatar-list-table.php:523
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/class-wp-user-avatar-list-table.php:532
+msgid "Restore"
+msgstr "Restaurer"
+
+#: includes/class-wp-user-avatar-list-table.php:538
+msgid "Trash"
+msgstr "Supprimer"
+
+#: includes/class-wp-user-avatar-list-table.php:561
+msgid "View"
+msgstr "Afficher"
+
+#. translators: either wp_footer() or wp_print_footer_scripts() hook.
+#: includes/class-wp-user-avatar-resource-manager.php:190
+msgid ""
+"We're sorry, but your theme's page template didn't make a call to %s, which "
+"is required by One User Avatar. Please add this call to your page templates."
+msgstr ""
+"Nous sommes désolés, mais le modèle de page de votre thème n’a pas appelé "
+"%s, ce qui est requis par One User Avatar. Veuillez ajouter cet appel à vos "
+"modèles de page."
+
+#: includes/class-wp-user-avatar-shortcode.php:243
+msgid "Profile updated."
+msgstr "Profil mis à jour."
+
+#: includes/class-wp-user-avatar-shortcode.php:273
+msgid "Update Profile"
+msgstr "Mettre à jour votre profil"
+
+#. translators: [avatar_upload] shortcode
+#: includes/class-wp-user-avatar-widget.php:27
+msgid "Insert %s"
+msgstr "Insérer %s"
+
+#: includes/class-wp-user-avatar-widget.php:99
+msgid "Title:"
+msgstr "Titre :"
+
+#: includes/class-wp-user-avatar-widget.php:105
+msgid "Description:"
+msgstr "Description&nbsp;:"
+
+#: includes/class-wp-user-avatar-widget.php:113
+msgid "Automatically add paragraphs"
+msgstr "Créer automatiquement les paragraphes"
+
+#. translators: user display name
+#: includes/class-wp-user-avatar.php:227
+msgid "Choose Image: %s"
+msgstr "Choisir une image: %s"
+
+#: includes/class-wp-user-avatar.php:243 includes/class-wp-user-avatar.php:244
+#: includes/wpua-tinymce-window.php:95 includes/wpua-tinymce-window.php:186
+msgid "Upload"
+msgstr "Envoi"
+
+#. translators: file size in KB
+#: includes/class-wp-user-avatar.php:253 includes/wpua-options-page.php:188
+msgid "Maximum upload file size: %s."
+msgstr "Taille maximum de fichier autorisée: %s."
+
+#. translators: allowed file extensions
+#: includes/class-wp-user-avatar.php:263
+msgid "Allowed Files: %s"
+msgstr "Fichiers autorisés: %s"
+
+#: includes/class-wp-user-avatar.php:276 includes/class-wp-user-avatar.php:278
+#: includes/wpua-tinymce-window.php:125
+msgid "Original Size"
+msgstr "Taille d’origine"
+
+#: includes/class-wp-user-avatar.php:282 includes/class-wp-user-avatar.php:284
+#: includes/wpua-tinymce-window.php:128
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: includes/class-wp-user-avatar.php:288
+msgid "Remove Image"
+msgstr "Retirer l’image"
+
+#: includes/class-wp-user-avatar.php:377
+msgid "This file is not an image. Please try another."
+msgstr "Ce fichier n’est pas une image. Veuillez en envoyer un autre."
+
+#: includes/class-wp-user-avatar.php:382 includes/class-wp-user-avatar.php:414
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Mémoire dépassée. Veuillez réessayer avec un fichier plus petit."
+
+#. translators: directory path
+#: includes/class-wp-user-avatar.php:389
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+"Impossible de créer le dossier %s. Son dossier parent est-il accessible en "
+"écriture par le serveur ?"
+
+#: includes/wpua-functions.php:109 includes/wpua-functions.php:118
+msgid "Image"
+msgstr "Image"
+
+#: includes/wpua-media-page.php:46
+msgid "You do not have permission to upload files."
+msgstr "Vous n’avez pas les droits nécessaires pour charger des fichiers."
+
+#. translators: search query
+#: includes/wpua-media-page.php:66
+msgid "Search results for %s"
+msgstr "Résultats de la recherche pour %s"
+
+#: includes/wpua-media-page.php:98
+msgid "Search"
+msgstr "Rechercher"
+
+#: includes/wpua-options-page.php:108
+msgid "Add avatar button to Visual Editor"
+msgstr "Ajouter le bouton avatar sur l'éditeur visuel"
+
+#: includes/wpua-options-page.php:119
+msgid "Allow Contributors & Subscribers to upload avatars"
+msgstr "Permettre aux contributeurs et aux abonnés d'envoyer des avatars"
+
+#: includes/wpua-options-page.php:130
+msgid "Disable Gravatar and use only local avatars"
+msgstr "Désactiver Gravatar et utiliser les avatars fournis"
+
+#: includes/wpua-options-page.php:158 includes/wpua-options-page.php:167
+msgid "Upload Size Limit"
+msgstr "Taille limite d'envoi de fichiers"
+
+#: includes/wpua-options-page.php:159 includes/wpua-options-page.php:168
+msgid "(only for Contributors & Subscribers)"
+msgstr "(pour contributeurs et abonnés)"
+
+#. translators: file name
+#: includes/wpua-options-page.php:178
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s dépasse la limite d’envoi de ce site."
+
+#: includes/wpua-options-page.php:199
+msgid "Allow users to edit avatars"
+msgstr "Permettre aux utilisateurs de modifier avatar"
+
+#: includes/wpua-options-page.php:207
+msgid "Resize avatars on upload"
+msgstr "Redimensionner avatars lors du téléchargement"
+
+#: includes/wpua-options-page.php:212
+msgid "Width"
+msgstr "Largeur"
+
+#: includes/wpua-options-page.php:216
+msgid "Height"
+msgstr "Hauteur"
+
+#: includes/wpua-options-page.php:224
+msgid "Crop avatars to exact dimensions"
+msgstr "Recadrer les avatars pour parvenir aux dimensions exactes"
+
+#: includes/wpua-options-page.php:246 includes/wpua-options-page.php:252
+msgid "Avatar Display"
+msgstr "Affichage de l’avatar"
+
+#: includes/wpua-options-page.php:259
+msgid "Show Avatars"
+msgstr "Afficher les avatars"
+
+#: includes/wpua-options-page.php:266 includes/wpua-options-page.php:272
+msgid "Maximum Rating"
+msgstr "Classement maximal"
+
+#: includes/wpua-options-page.php:278
+msgid "G &#8212; Suitable for all audiences"
+msgstr "G &#8212; Visibles par tous"
+
+#: includes/wpua-options-page.php:279
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr ""
+"PG &#8212; Possiblement offensants, réservés normalement aux personnes de 13 "
+"ans et plus"
+
+#: includes/wpua-options-page.php:280
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr "R &#8212; Réservés aux personnes de plus de 17 ans"
+
+#: includes/wpua-options-page.php:281
+msgid "X &#8212; Even more mature than above"
+msgstr "X &#8212; Réservés aux adultes"
+
+#: includes/wpua-options-page.php:310
+msgid ""
+"For users without a custom avatar of their own, you can either display a "
+"generic logo or a generated one based on their e-mail address."
+msgstr ""
+"Les utilisateurs n’ayant pas d’avatar peuvent se voir attribuer un logo "
+"générique, ou un avatar généré à partir de leur adresse de messagerie."
+
+#: includes/wpua-tinymce-window.php:101
+msgid "User Name"
+msgstr "Nom d’utilisateur"
+
+#: includes/wpua-tinymce-window.php:121 includes/wpua-tinymce-window.php:134
+msgid "Size:"
+msgstr "Taille:"
+
+#: includes/wpua-tinymce-window.php:126
+msgid "Large"
+msgstr "Grand"
+
+#: includes/wpua-tinymce-window.php:127
+msgid "Medium"
+msgstr "Moyen"
+
+#: includes/wpua-tinymce-window.php:129
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: includes/wpua-tinymce-window.php:140
+msgid "Alignment:"
+msgstr "Alignement:"
+
+#: includes/wpua-tinymce-window.php:144
+msgid "Center"
+msgstr "Centré"
+
+#: includes/wpua-tinymce-window.php:145
+msgid "Left"
+msgstr "À gauche"
+
+#: includes/wpua-tinymce-window.php:146
+msgid "Right"
+msgstr "À droite"
+
+#: includes/wpua-tinymce-window.php:151
+msgid "Link To:"
+msgstr "Lier à:"
+
+#: includes/wpua-tinymce-window.php:155
+msgid "Image File"
+msgstr "Fichier image"
+
+#: includes/wpua-tinymce-window.php:156
+msgid "Attachment Page"
+msgstr "Page du fichier joint"
+
+#: includes/wpua-tinymce-window.php:157
+msgid "Custom URL"
+msgstr "URL personnalisée"
+
+#: includes/wpua-tinymce-window.php:162
+msgid "URL:"
+msgstr "URL:"
+
+#: includes/wpua-tinymce-window.php:170
+msgid "Open link in a new window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#: includes/wpua-tinymce-window.php:174
+msgid "Caption"
+msgstr "Légende"
+
+#: includes/wpua-tinymce-window.php:180 includes/wpua-tinymce-window.php:192
+msgid "Insert into Post"
+msgstr "Insérer dans la publication"
+
+#: includes/wpua-tinymce.php:70
+msgid "Insert Avatar"
+msgstr "Insérer un avatar"
+
+#. translators: placeholder for <a> and </a> tags.
+#: one-user-avatar.php:127
+msgid ""
+"The plugin One User Avatar is a replacement for the old WP User Avatar "
+"plugin. Please %1$sdeactivate WP User Avatar%2$s to start using it."
+msgstr ""
+"Le plugin One User Avatar remplace l’ancien plugin WP User Avatar. Veuillez "
+"%1$sdésactiver WP User Avatar%2$s pour commencer à l’utiliser."
+
+#~ msgid "Media attachment permanently deleted."
+#~ msgid_plural "%d media attachments permanently deleted."
+#~ msgstr[0] "Média attaché supprimé définitivement."
+#~ msgstr[1] "%d médias attachés supprimés définitivement."
